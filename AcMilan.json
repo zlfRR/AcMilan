@@ -1,0 +1,67 @@
+{
+  "result": [
+    {
+      "no": "16",
+      "name": "Mike Maignan",
+      "birth_date": "1995-07-03",
+      "Position": "Goalkeeper",
+      "International": "France",
+      "Team": "AC Milan",
+      "Poster": "https://i.postimg.cc/52G1Rvq8/Maignan.png"
+    },
+    {
+      "no": "24",
+      "name": "Alessandro Florenzi",
+      "birth_date": "1991-03-11",
+      "Position": "Defender",
+      "International": "Italy",
+      "Team": "AC Milan",
+      "Poster": "https://i.postimg.cc/0yLtkSB9/Florenzi.png"
+    },
+    {
+      "no": "19",
+      "name": "Theo Hernandez",
+      "birth_date": "1997-10-06",
+      "Position": "Defender",
+      "International": "France",
+      "Team": "AC Milan",
+      "Poster": "https://i.postimg.cc/TYBy5HgB/Theo-Hernandez.png"
+    },
+    {
+      "no": "23",
+      "name": "Fikayo Tomori",
+      "birth_date": "1997-12-19",
+      "Position": "Defender",
+      "International": "England",
+      "Team": "AC Milan",
+      "Poster": "https://i.postimg.cc/9FR2PXnR/Tomori.png"
+    },
+    {
+      "no": "14",
+      "name": "Tijjani Reijnders",
+      "birth_date": "1998-07-29",
+      "Position": "Midfielder",
+      "International": "Netherlands",
+      "Team": "AC Milan",
+      "Poster": "https://i.postimg.cc/ZRXmZ1jZ/Reijnders.png"
+    },
+    {
+      "no": "10",
+      "name": "Rafael Leao",
+      "birth_date": "1999-06-10",
+      "Position": "Forward",
+      "International": "Portugal",
+      "Team": "AC Milan",
+      "Poster": "https://i.postimg.cc/y8wLMkBm/Leao.png"
+    },
+    {
+      "no": "9",
+      "name": "Olivier Giroud",
+      "birth_date": "1986-09-30",
+      "Position": "Forward",
+      "International": "France",
+      "Team": "AC Milan",
+      "Poster": "https://i.postimg.cc/y8kG96dD/Giroud.png"
+    }
+  ]
+}
