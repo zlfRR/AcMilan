@@ -7,7 +7,7 @@
       "Position": "Goalkeeper",
       "International": "France",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/52G1Rvq8/Maignan.png"
+      "Poster": "https://via.placeholder.com/150?text=Mike+Maignan"
     },
     {
       "no": "24",
@@ -16,16 +16,16 @@
       "Position": "Defender",
       "International": "Italy",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/0yLtkSB9/Florenzi.png"
+      "Poster": "https://via.placeholder.com/150?text=Alessandro+Florenzi"
     },
     {
       "no": "19",
-      "name": "Theo Hernandez",
+      "name": "Theo Hernández",
       "birth_date": "1997-10-06",
       "Position": "Defender",
       "International": "France",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/TYBy5HgB/Theo-Hernandez.png"
+      "Poster": "https://via.placeholder.com/150?text=Theo+Hernandez"
     },
     {
       "no": "23",
@@ -34,7 +34,7 @@
       "Position": "Defender",
       "International": "England",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/9FR2PXnR/Tomori.png"
+      "Poster": "https://via.placeholder.com/150?text=Fikayo+Tomori"
     },
     {
       "no": "14",
@@ -43,7 +43,7 @@
       "Position": "Midfielder",
       "International": "Netherlands",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/ZRXmZ1jZ/Reijnders.png"
+      "Poster": "https://via.placeholder.com/150?text=Tijjani+Reijnders"
     },
     {
       "no": "80",
@@ -52,16 +52,16 @@
       "Position": "Midfielder",
       "International": "France",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/nh54HTSz/Adli.png"
+      "Poster": "https://via.placeholder.com/150?text=Yacine+Adli"
     },
     {
       "no": "10",
-      "name": "Rafael Leao",
+      "name": "Rafael Leão",
       "birth_date": "1999-06-10",
       "Position": "Forward",
       "International": "Portugal",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/y8wLMkBm/Leao.png"
+      "Poster": "https://via.placeholder.com/150?text=Rafael+Leao"
     },
     {
       "no": "9",
@@ -70,7 +70,7 @@
       "Position": "Forward",
       "International": "France",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/y8kG96dD/Giroud.png"
+      "Poster": "https://via.placeholder.com/150?text=Olivier+Giroud"
     },
     {
       "no": "11",
@@ -79,16 +79,16 @@
       "Position": "Forward",
       "International": "USA",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/wv2P8mzt/Pulisic.png"
+      "Poster": "https://via.placeholder.com/150?text=Christian+Pulisic"
     },
     {
       "no": "15",
-      "name": "Luka Jovic",
+      "name": "Luka Jović",
       "birth_date": "1997-12-23",
       "Position": "Forward",
       "International": "Serbia",
       "Team": "AC Milan",
-      "Poster": "https://i.postimg.cc/X7sVGKMX/Jovic.png"
+      "Poster": "https://via.placeholder.com/150?text=Luka+Jovic"
     }
   ]
 }
