@@ -1,114 +1,94 @@
 {
-  "players": [
+  "result": [
     {
-      "id": "1",
-      "name": "Thibaut Courtois",
-      "position": "Goalkeeper",
-      "number": "1",
-      "country": "Belgium",
-      "birthDate": "1992-05-11",
-      "team": "Real Madrid",
-      "poster": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2025/04/17/thibaut-3974486828.jpg"
+      "no": "16",
+      "name": "Mike Maignan",
+      "birth_date": "1995-07-03",
+      "Position": "Goalkeeper",
+      "International": "France",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/mike-maignan.png"
     },
     {
-      "id": "2",
-      "name": "Dani Carvajal",
-      "position": "Right Back",
-      "number": "2",
-      "country": "Spain",
-      "birthDate": "1992-01-11",
-      "team": "Real Madrid",
-      "poster": "https://static01.nyt.com/athletic/uploads/wp/2024/10/06081129/GettyImages-2168593451-scaled-e1728216709144.jpg"
+      "no": "24",
+      "name": "Alessandro Florenzi",
+      "birth_date": "1991-03-11",
+      "Position": "Defender",
+      "International": "Italy",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/alessandro-florenzi.png"
     },
     {
-      "id": "3",
-      "name": "Antonio Rüdiger",
-      "position": "Center Back",
-      "number": "22",
-      "country": "Germany",
-      "birthDate": "1993-03-03",
-      "team": "Real Madrid",
-      "poster": "https://img.bolaskor.com/media/60/85/8f/60858fb227585a65704b0bd4519b108a.jpg"
+      "no": "19",
+      "name": "Theo Hernández",
+      "birth_date": "1997-10-06",
+      "Position": "Defender",
+      "International": "France",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/theo-hernandez.png"
     },
     {
-      "id": "4",
-      "name": "David Alaba",
-      "position": "Center Back",
-      "number": "4",
-      "country": "Austria",
-      "birthDate": "1992-06-24",
-      "team": "Real Madrid",
-      "poster": "https://assets.goal.com/images/v3/getty-2152094710/crop/MM5DGMBYGU5DCNZTGU5G433XMU5DCNRQHIYA====/GettyImages-2152094710.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+      "no": "23",
+      "name": "Fikayo Tomori",
+      "birth_date": "1997-12-19",
+      "Position": "Defender",
+      "International": "England",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/fikayo-tomori.png"
     },
     {
-      "id": "5",
-      "name": "Ferland Mendy",
-      "position": "Left Back",
-      "number": "23",
-      "country": "France",
-      "birthDate": "1995-06-08",
-      "team": "Real Madrid",
-      "poster": "https://www.hetanews.com/storage/images/20240926/20240926121634-real-madrid-v-fc-bayern-munchen-semi-final-second-leg-uefa-champions-league-2023-24-2-scaled.webp"
+      "no": "14",
+      "name": "Tijjani Reijnders",
+      "birth_date": "1998-07-29",
+      "Position": "Midfielder",
+      "International": "Netherlands",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/tijjani-reijnders.png"
     },
     {
-      "id": "6",
-      "name": "Federico Valverde",
-      "position": "Midfielder",
-      "number": "15",
-      "country": "Uruguay",
-      "birthDate": "1998-07-22",
-      "team": "Real Madrid",
-      "poster": "https://akcdn.detik.net.id/community/media/visual/2025/02/15/federico-valverde.jpeg?w=1200"
+      "no": "80",
+      "name": "Yacine Adli",
+      "birth_date": "2000-07-29",
+      "Position": "Midfielder",
+      "International": "France",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/yacine-adli.png"
     },
     {
-      "id": "7",
-      "name": "Jude Bellingham",
-      "position": "Midfielder",
-      "number": "5",
-      "country": "England",
-      "birthDate": "2003-06-29",
-      "team": "Real Madrid",
-      "poster": "https://asset-2.tstatic.net/prohaba/foto/bank/images/Gelandang-Real-Madrid-Jude-Bellingham-2.jpg"
+      "no": "10",
+      "name": "Rafael Leão",
+      "birth_date": "1999-06-10",
+      "Position": "Forward",
+      "International": "Portugal",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/rafael-leao.png"
     },
     {
-      "id": "8",
-      "name": "Arda Güler",
-      "position": "Midfielder",
-      "number": "24",
-      "country": "Turkey",
-      "birthDate": "2005-02-25",
-      "team": "Real Madrid",
-      "poster": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/197/2024/03/11/IMG_20240311_192150-1924916706.jpg"
+      "no": "9",
+      "name": "Olivier Giroud",
+      "birth_date": "1986-09-30",
+      "Position": "Forward",
+      "International": "France",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/olivier-giroud.png"
     },
     {
-      "id": "9",
-      "name": "Rodrygo Goes",
-      "position": "Right Winger",
-      "number": "11",
-      "country": "Brazil",
-      "birthDate": "2001-01-09",
-      "team": "Real Madrid",
-      "poster": "https://assets.goal.com/images/v3/bltc43ef733519d6e22/fotor_2023-5-7_1_49_39.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+      "no": "11",
+      "name": "Christian Pulisic",
+      "birth_date": "1998-09-18",
+      "Position": "Forward",
+      "International": "USA",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/christian-pulisic.png"
     },
     {
-      "id": "10",
-      "name": "Vinícius Júnior",
-      "position": "Left Winger",
-      "number": "7",
-      "country": "Brazil",
-      "birthDate": "2000-07-12",
-      "team": "Real Madrid",
-      "poster": "https://c.inilah.com/reborn/2025/05/large_gaji_vinicius_junior_di_real_madrid_c8635473cd.jpg"
-    },
-    {
-      "id": "11",
-      "name": "Kylian Mbappé",
-      "position": "Striker",
-      "number": "9",
-      "country": "France",
-      "birthDate": "1998-12-20",
-      "team": "Real Madrid",
-      "poster": "https://i.dailymail.co.uk/1s/2024/11/28/09/92578929-0-image-m-44_1732787004532.jpg"
+      "no": "15",
+      "name": "Luka Jović",
+      "birth_date": "1997-12-23",
+      "Position": "Forward",
+      "International": "Serbia",
+      "Team": "AC Milan",
+      "Poster": "https://www.acmilan.com/images/players/2024-2025/luka-jovic.png"
     }
   ]
 }
